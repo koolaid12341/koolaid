@@ -6,3 +6,17 @@ Codename: ios
 Architectures: iphoneos-arm
 Components: main
 Description: Free repo
+
+Package: com.person.sm64ios
+Version: 1.0.1
+Architecture: iphoneos-arm
+Maintainer: slicey64
+Filename: ./Tweaks/sm64ios/sm64ios.deb
+Size: 17059734
+MD5sum: f08e7899078f6422da7231009bfcbf8b
+SHA1: 5cc35b97acbc0b7f72c039e7ed94a96a9d2995d7
+SHA256: 35d8aa3cd0e68a92178ec2aa8b0e199095cac247749a8f48979e59b2a00f3a59
+Section: Games
+Description: Super Mario 64 for iOS! If you do not own this game already, this may be illegal to download! Download at your own risk! I take no responsibility for your actions.
+Author: slicey64
+Name: SM64ios
